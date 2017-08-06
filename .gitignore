@@ -1,0 +1,4 @@
+
+*.pyc
+
+xgboost_build/
